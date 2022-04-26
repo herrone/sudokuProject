@@ -74,7 +74,7 @@ public class Sudoku {
                 }
 
             }
-
+l
             ArrayList<Integer> myBoard = new ArrayList<>();
 
             myBoard = inPlay.getPartialBoard();
